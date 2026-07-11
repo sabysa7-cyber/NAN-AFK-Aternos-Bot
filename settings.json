@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "svnan.falixsrv.me",
-    "port": 52958,
-    "version": "1.20.1",
+    "ip": "NANBEDROCK.aternos.me",
+    "port": 59877,
+    "version": "1.26.33.1",
     "try-creative": false
   },
   "position": {
