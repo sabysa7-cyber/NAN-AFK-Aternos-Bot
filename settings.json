@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NAN723.aternos.me",
+    "ip": "whitewingedredstart.aternos.host:27068",
     "port": 27068,
     "version": "1.21.80",
     "try-creative": false
