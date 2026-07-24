@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NANBEDROCK.aternos.me",
-    "port": 59877,
+    "ip": "NAN723.aternos.me",
+    "port": 27068,
     "version": "1.26.33.1",
     "try-creative": false
   },
